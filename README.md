@@ -1,2 +1,2 @@
 # hola-mundo
-say hello
+say hi or hello
